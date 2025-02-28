@@ -1,0 +1,46 @@
+.myAccordion {
+  margin: 30px;
+}
+
+.accordionMainDiv {
+  min-height: 460px;
+
+
+}
+
+
+
+
+.project-container {
+  display: flex;
+  padding: 15px;
+  gap: 50px;
+
+}
+
+.pro-dec{
+  display:  flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.descriptionDiv {
+  display: flex;
+  flex-direction: row;
+}
+
+.projectImg {
+  display: flex;
+}
+
+.Pimage {
+  width: 200px;
+  height: 150px;
+  object-fit:cover;
+
+  
+}
+.projectDesc {
+  display: flex;
+}
+
