@@ -32,7 +32,6 @@ const ComplaintSchema = new mongoose.Schema({
   },
   imageUrl: {
     type: Object,
-    required: true,
   },
   date: {
     type: Date,
